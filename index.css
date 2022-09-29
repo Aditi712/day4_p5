@@ -1,0 +1,27 @@
+.lg{
+    background: linear-gradient(lightgrey, lightyellow, skyblue); 
+    padding: 15px;
+    font-size:20px;
+    color: red;
+    margin: 5px;
+    border-radius:8px;
+    text-align: center;
+}
+
+.rg{
+    background: radial-gradient(lightyellow, gold, lightgrey); 
+    padding: 15px;
+    font-size:20px;
+    color: purple;
+    margin: 5px;
+    border-radius:8px;
+    text-align: center;
+    }
+*
+{
+    background-color: brown;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: yellow;
+}
